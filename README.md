@@ -21,3 +21,9 @@ Open terminal or cmd and type git clone https://github.com/kumarchino/Python-Cal
 After this open Finder, or File explorer.
 Type calculator.py and a result should appear.
 Run the python script and your done, D:
+
+Credits: ❤️
+Owner and only contributor, at this time (kumarchino)
+Feel free to contribute to this project.
+I want to make this calculator even more detailed in the Future
+Hints: Future updates are coming soon.
