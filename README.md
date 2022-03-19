@@ -15,3 +15,9 @@ Features: 💡
 Addition, Subtraction, Multiplication, and Division support.
 Cross platform Support, (Macos),(Windows),(Linux).
 Made in the Python Programming Language.
+
+How to use: 🖥️
+Open terminal or cmd and type git clone https://github.com/kumarchino/Python-Calculator.git
+After this open Finder, or File explorer.
+Type calculator.py and a result should appear.
+Run the python script and your done, D:
